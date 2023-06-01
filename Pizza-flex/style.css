@@ -12,6 +12,10 @@ body {
 
 /* Barra navegación */
 
+.logo{
+height: 50px;
+
+}
 .barra-navegacion {
   background-color: #222222;
   display: flex;
@@ -38,7 +42,7 @@ a {
 /*  Sección principal */
 
 main {
-  height: 100vh;
+  height: 80vh;
   padding: 30px;
   display: flex;
   justify-content: space-around;
