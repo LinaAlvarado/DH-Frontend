@@ -11,8 +11,8 @@ body {
 }
 
 .header-container nav {
-  background-color: #49b3bc;
-  color: #173745;
+  background-color: #08232f;;
+  color: #ffffff;
   font-weight: bolder;
   height: 80px;
   font-size: 30px;
@@ -20,7 +20,7 @@ body {
 }
 
 .sub-header {
-  background-color: #f3f3f3;
+  background-color: #1b595e;
   color: #57d1d9;
   font-weight: bolder;
   height: 40px;
@@ -28,7 +28,7 @@ body {
 }
 
 main {
-  background: linear-gradient(180deg, #57d1d9 0%, #08232f 100%);
+  /* background: linear-gradient(180deg, #57d1d9 0%, #113c4f 100%); */
   height: 80vh;
   padding: 30px;
   
